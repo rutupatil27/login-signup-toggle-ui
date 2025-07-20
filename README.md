@@ -3,6 +3,11 @@
 This is a responsive and visually appealing **Login & Sign-Up form toggle** built using only HTML and CSS. The form switching animation is handled entirely using CSS transitions and a hidden checkbox — no JavaScript is involved!
 
 ---
+## 🔍 Preview
+
+![Sign Up / Log In Preview](./preview.mp4)
+
+---
 
 ## ✨ Features
 
