@@ -5,7 +5,7 @@ This is a responsive and visually appealing **Login & Sign-Up form toggle** buil
 ---
 ## 🔍 Preview
 
-![Sign Up / Log In Preview](./preview.mp4)
+![Sign Up / Log In Preview](./preview.gif)
 
 ---
 
